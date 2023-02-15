@@ -114,8 +114,6 @@ You can deploy this project using GitHub Pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [Modern-Styling] **[Changing color of the text.]**
@@ -145,7 +143,6 @@ I would like to thank Microverse for providing me this awesome learning opportun
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
