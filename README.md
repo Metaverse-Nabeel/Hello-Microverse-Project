@@ -21,7 +21,6 @@
 
 # 📖 [Hello-Microverse-Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello-Microverse-Project]** is a simple HTML/CSS project in which Linters, GitHub and Code Review concept was practiced.
 
@@ -29,7 +28,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -85,7 +83,7 @@ Install this project with:
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please give it a star. Thank you
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
